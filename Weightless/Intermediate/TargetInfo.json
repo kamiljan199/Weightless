@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Weightless",
+			"Path": "D:\\Programy\\UnrealEngine\\Projekty\\Weightless\\Weightless\\Source\\Weightless.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "WeightlessEditor",
+			"Path": "D:\\Programy\\UnrealEngine\\Projekty\\Weightless\\Weightless\\Source\\WeightlessEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

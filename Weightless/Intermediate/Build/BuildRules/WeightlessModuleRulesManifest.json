@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"D:\\Programy\\UnrealEngine\\Projekty\\Weightless\\Weightless\\Source\\Weightless\\Weightless.Build.cs",
+		"D:\\Programy\\UnrealEngine\\Projekty\\Weightless\\Weightless\\Source\\Weightless.Target.cs",
+		"D:\\Programy\\UnrealEngine\\Projekty\\Weightless\\Weightless\\Source\\WeightlessEditor.Target.cs"
+	],
+	"EngineVersion": "4.24.0"
+}
