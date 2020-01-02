@@ -1,9 +1,0 @@
-D:\Programy\UnrealEngine\Projekty\Weightless\Weightless\Intermediate\Build\Win64\UE4Editor\Development\Weightless\Definitions.Weightless.h
-D:\Programy\UnrealEngine\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
-D:\Programy\UnrealEngine\UE_4.24\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-D:\Programy\UnrealEngine\Projekty\Weightless\Weightless\Source\Weightless/WeightlessGameMode.h
-D:\Programy\UnrealEngine\UE_4.24\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
-D:\Programy\UnrealEngine\UE_4.24\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
-D:\Programy\UnrealEngine\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
-D:\Programy\UnrealEngine\UE_4.24\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-D:\Programy\UnrealEngine\Projekty\Weightless\Weightless\Intermediate\Build\Win64\UE4Editor\Inc\Weightless\WeightlessGameMode.generated.h

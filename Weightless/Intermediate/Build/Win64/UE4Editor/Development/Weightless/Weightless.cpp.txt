@@ -1,2 +1,0 @@
-D:\Programy\UnrealEngine\Projekty\Weightless\Weightless\Intermediate\Build\Win64\UE4Editor\Development\Weightless\Definitions.Weightless.h
-D:\Programy\UnrealEngine\Projekty\Weightless\Weightless\Source\Weightless\Weightless.h
